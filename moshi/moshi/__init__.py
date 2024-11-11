@@ -15,4 +15,4 @@ from . import modules
 from . import models
 from . import quantization
 
-__version__ = "0.1.1a1"
+__version__ = "0.1.1a2"
